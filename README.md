@@ -1,0 +1,5 @@
+I kept to the suggested timeline of a couple of hours and this represents a fair approximation of 2 hours of work. I would have created more thorough artifacts given more time and dug deeper into colors and variables. 
+
+When creating these artifacts and for the developers who are going to build it for the demo I have made a few assumptions and intentionally omitted some parts of the process.
+
+I am assuming we are using a responsive framework like bootstrap/tailwind/foundation/etc. so I didn't build out mockups for the mobile view as I assume we will get those for free or nearly so. I also omitted creating a login path as it would nearly identical to the sign up page except there would be `Sign in with Facebook`, `Sign in with Google`, as well as a email and password field. I also omitted the update/view account page as it would also be identical to the create account page with the exception of it saying Update at the top and the terms of service checkbox wouldn't be uncheckable. Finally, I omitted the `check your email for an invite page`, since it is simply a static page, with no interaction. 
